@@ -1,0 +1,145 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "age": 20,
+        "grade": "A",
+        "courses": ["Mathematics", "Physics", "Computer Science"]
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 21,
+        "grade": "B",
+        "courses": ["Chemistry", "Biology", "English"]
+      },
+      {
+        "id": 3,
+        "name": "Alex Johnson",
+        "age": 22,
+        "grade": "C",
+        "courses": ["History", "Geography", "Art"]
+      },
+      {
+        "id": 4,
+        "name": "Emma Davis",
+        "age": 20,
+        "grade": "A",
+        "courses": ["Economics", "Psychology", "Sociology"]
+      },
+      {
+        "id": 5,
+        "name": "Michael Wilson",
+        "age": 21,
+        "grade": "B",
+        "courses": ["Physical Education", "Health", "Nutrition"]
+      },
+      {
+        "id": 6,
+        "name": "Sophia Brown",
+        "age": 22,
+        "grade": "C",
+        "courses": ["French", "Spanish", "German"]
+      },
+      {
+        "id": 7,
+        "name": "Ethan Martinez",
+        "age": 20,
+        "grade": "A",
+        "courses": ["Music", "Drama", "Dance"]
+      },
+      {
+        "id": 8,
+        "name": "Olivia Taylor",
+        "age": 21,
+        "grade": "B",
+        "courses": ["Statistics", "Data Science", "Machine Learning"]
+      },
+      {
+        "id": 9,
+        "name": "Daniel White",
+        "age": 22,
+        "grade": "C",
+        "courses": ["Philosophy", "Ethics", "Logic"]
+      },
+      {
+        "id": 10,
+        "name": "Mia Hall",
+        "age": 20,
+        "grade": "A",
+        "courses": ["Political Science", "International Relations", "Public Policy"]
+      },
+      {
+        "id": 11,
+        "name": "Liam Harris",
+        "age": 21,
+        "grade": "B",
+        "courses": ["Astrophysics", "Cosmology", "Quantum Mechanics"]
+      },
+      {
+        "id": 12,
+        "name": "Ava Turner",
+        "age": 22,
+        "grade": "C",
+        "courses": ["Computer Graphics", "Web Development", "Mobile App Development"]
+      },
+      {
+        "id": 13,
+        "name": "Noah Adams",
+        "age": 20,
+        "grade": "A",
+        "courses": ["Environmental Science", "Ecology", "Climate Change"]
+      },
+      {
+        "id": 14,
+        "name": "Isabella Parker",
+        "age": 21,
+        "grade": "B",
+        "courses": ["Archaeology", "Anthropology", "Sociocultural Studies"]
+      },
+      {
+        "id": 15,
+        "name": "James Cooper",
+        "age": 22,
+        "grade": "C",
+        "courses": ["Marketing", "Advertising", "Consumer Behavior"]
+      },
+      {
+        "id": 16,
+        "name": "Evelyn Murphy",
+        "age": 20,
+        "grade": "A",
+        "courses": ["Neuroscience", "Psychiatry", "Cognitive Psychology"]
+      },
+      {
+        "id": 17,
+        "name": "Benjamin Reed",
+        "age": 21,
+        "grade": "B",
+        "courses": ["Business Ethics", "Corporate Social Responsibility", "Leadership"]
+      },
+      {
+        "id": 18,
+        "name": "Chloe Ward",
+        "age": 22,
+        "grade": "C",
+        "courses": ["Robotics", "Artificial Intelligence", "Automation"]
+      },
+      {
+        "id": 19,
+        "name": "Carter Hill",
+        "age": 20,
+        "grade": "A",
+        "courses": ["Microeconomics", "Macroeconomics", "Financial Management"]
+      },
+      {
+        "id": 20,
+        "name": "Grace Rogers",
+        "age": 21,
+        "grade": "B",
+        "courses": ["World History", "Cultural Studies", "Global Politics"]
+      }
+    ]
+  }
+  
