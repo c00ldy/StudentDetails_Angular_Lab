@@ -34,18 +34,19 @@ td {
   margin: 0 19%;
 }
 
-/* .serchbar>:nth-child(1)>input {
-  align-items: center;
-  width: 15.5%;
-  padding: 9px;
-  margin-bottom: -10px;
-  margin-left: 18.7%;
-  border: 1px solid #ddd;
+.ipt {
   background-color: rgb(47, 47, 47);
   color: rgb(255, 255, 255);
-} */
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+  margin-left: -1%;
+  width: 22vw;
+}
 
-
+.text {
+  text-align: center;
+}
 
 .heading {
   background-color: rgb(47, 47, 47);

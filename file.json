@@ -2,24 +2,24 @@
     "students": [
       {
         "id": 1,
-        "name": "John Doe",
+        "name": "Himanshu Makwana",
         "age": 20,
         "grade": "A",
-        "courses": ["Mathematics", "Physics", "Computer Science"]
+        "courses": ["BE.IT GTU"]
       },
       {
         "id": 2,
-        "name": "Jane Smith",
+        "name": "Dhruval Mevada",
         "age": 21,
-        "grade": "B",
-        "courses": ["Chemistry", "Biology", "English"]
+        "grade": "A",
+        "courses": ["BE.IT GTU"]
       },
       {
         "id": 3,
-        "name": "Alex Johnson",
+        "name": "Kunjan Herma ",
         "age": 22,
-        "grade": "C",
-        "courses": ["History", "Geography", "Art"]
+        "grade": "A",
+        "courses": ["BE.IT GTU"]
       },
       {
         "id": 4,
