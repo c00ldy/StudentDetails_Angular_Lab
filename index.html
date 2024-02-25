@@ -12,26 +12,35 @@
 
     <h1>Student Details</h1>
 
-    <input type="text" ng-model="search" placeholder="Search by name">
 
-    <h4>Search Student's Details by ID,Name,Age,Grade,Courses</h4>
+    <div class="serchbar">
+        <div>
+            <input type="text" ng-model="search" placeholder="Search by name">
+        </div>
+        <div>
+            <h4>Search Student's Details by ID,Name,Age,Grade,Courses</h4>
+        </div>
+    </div>
 
-    <table class="tbl" ng-show="search">
-        <tr class="heading">
-            <th>ID</th>
-            <th>Name</th>
-            <th>Age</th>
-            <th>Grade</th>
-            <th>Courses</th>
-        </tr>
-        <tr ng-repeat="student in students | filter:search">
-            <td>{{ student.id }}</td>
-            <td>{{ student.name }}</td>
-            <td>{{ student.age }}</td>
-            <td>{{ student.grade }}</td>
-            <td>{{ student.courses.join(', ') }}</td>
-        </tr>
-    </table>
+
+    <section class="one">
+        <table class="tbl" ng-show="search">
+            <tr class="heading">
+                <th>ID</th>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Grade</th>
+                <th>Courses</th>
+            </tr>
+            <tr ng-repeat="student in students | filter:search">
+                <td>{{ student.id }}</td>
+                <td>{{ student.name }}</td>
+                <td>{{ student.age }}</td>
+                <td>{{ student.grade }}</td>
+                <td>{{ student.courses.join(', ') }}</td>
+            </tr>
+        </table>
+    </section>
 
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular.min.js"></script>
     <script src="app.js"></script>
