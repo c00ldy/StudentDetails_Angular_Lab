@@ -37,7 +37,7 @@ td {
 .ipt {
   background-color: rgb(47, 47, 47);
   color: rgb(255, 255, 255);
-  border: 1px solid #ddd;
+  border: none;
   padding: 8px;
   text-align: left;
   margin-left: -1%;
